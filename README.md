@@ -3,10 +3,12 @@
 > http://blog.csdn.net/forezp/article/details/70148833
 > 本文出自[方志朋的博客](http://blog.csdn.net/forezp)
 
+
+>commit test1
 错过了这一篇，你可能再也学不会 Spring Cloud 了！Spring Boot做为下一代 web 框架，Spring Cloud 作为最新最火的微服务的翘楚，你还有什么理由拒绝。赶快上船吧，老船长带你飞。终章不是最后一篇，它是一个汇总，未来还会写很多篇。
 
-案例全部采用Spring Boot 1.5.x ,Spring Cloud版本为Dalston.RELEASE
-
+	案例全部采用Spring Boot 1.5.x ,Spring Cloud版本为Dalston.RELEASE
+*learning commit
 我为什么这些文章？一是巩固自己的知识，二是希望有更加开放和与人分享的心态，三是接受各位大神的批评指教，有任何问题可以联系我: miles02@163.com .
 码农下载：[https://git.oschina.net/forezp/SpringCloudLearning](https://git.oschina.net/forezp/SpringCloudLearning)
 github下载：[https://github.com/forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning),记得star哦！
@@ -16,6 +18,7 @@ github下载：[https://github.com/forezp/SpringCloudLearning](https://github.co
 ### 《史上最简单的 SpringCloud 教程》系列：
 
 * [史上最简单的 SpringCloud 教程 | 第一篇: 服务的注册与发现（Eureka）](http://blog.csdn.net/forezp/article/details/69696915)
+-learning commit test2
 * [史上最简单的SpringCloud教程 | 第二篇: 服务消费者（rest+ribbon）](http://blog.csdn.net/forezp/article/details/69788938)
 * [史上最简单的SpringCloud教程 | 第三篇: 服务消费者（Feign）](http://blog.csdn.net/forezp/article/details/69808079)
 * [史上最简单的SpringCloud教程 | 第四篇:断路器（Hystrix）](http://blog.csdn.net/forezp/article/details/69934399)
@@ -30,7 +33,7 @@ github下载：[https://github.com/forezp/SpringCloudLearning](https://github.co
 * [史上最简单的SpringCloud教程 | 第十三篇: 断路器聚合监控(Hystrix Turbine)](http://blog.csdn.net/forezp/article/details/70233227)
 * [ 史上最简单的 SpringCloud 教程 | 第十四篇: 服务注册(consul)](http://blog.csdn.net/forezp/article/details/70245644)
 *  未完。。。
-*  还有很多篇。。。
+-commit  还有很多篇。。。
  
 ### 进阶篇
 
